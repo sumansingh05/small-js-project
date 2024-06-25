@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: aqua;
+} */
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#purple{
+    background-color: purple;
+}
+#aqua{
+    background-color: aqua;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
